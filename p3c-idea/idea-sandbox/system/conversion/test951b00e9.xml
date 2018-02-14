@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\zhangliewei.GOME\IdeaProjects\test\.idea\compiler.xml" timestamp="1511761210033" />
+    <file path="C:\Users\zhangliewei.GOME\IdeaProjects\test\.idea\copyright\profiles_settings.xml" timestamp="1511761210049" />
+    <file path="C:\Users\zhangliewei.GOME\IdeaProjects\test\.idea\misc.xml" timestamp="1511761210012" />
+    <file path="C:\Users\zhangliewei.GOME\IdeaProjects\test\.idea\modules.xml" timestamp="1511761212661" />
+    <file path="C:\Users\zhangliewei.GOME\IdeaProjects\test\.idea\vcs.xml" timestamp="1511761210073" />
+    <file path="C:\Users\zhangliewei.GOME\IdeaProjects\test\.idea\workspace.xml" timestamp="1511761243625" />
+    <file path="C:\Users\zhangliewei.GOME\IdeaProjects\test\test.iml" timestamp="1511761212648" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<ruleset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="alibaba-pmd"
+         xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+    <rule ref="rulesets/java/ali-concurrent.xml">
+        <exclude name="AvoidCallStaticSimpleDateFormatRule"/>
+      <!--  <exclude name="AvoidManuallyCreateThreadRule"/>-->
+    </rule>
+    <rule ref="rulesets/java/ali-comment.xml">
+        <!--<exclude name="AvoidCommentBehindStatementRule"/>-->
+    </rule>
+    <rule ref="rulesets/java/ali-naming.xml">
+        <exclude name="ClassNamingShouldBeCamelRule"/>
+        <exclude name="ArrayNamingShouldHaveBracketRule"/>
+       <!--  <exclude name="AbstractClassShouldStartWithAbstractNamingRule"/>
+        <exclude name="AvoidStartWithDollarAndUnderLineNamingRule"/>
+        <exclude name="ExceptionClassShouldEndWithExceptionRule"/>
+        <exclude name="TestClassShouldEndWithTestNamingRule"/>
+        <exclude name="LowerCamelCaseVariableNamingRule"/>
+        <exclude name="ConstantFieldShouldBeUpperCaseRule"/>
+        <exclude name="PackageNamingRule"/>-->
+    </rule>
+    <rule ref="rulesets/java/ali-constant.xml">
+        <exclude name="UpperEllRule"/>
+    </rule>
+    <rule ref="rulesets/java/ali-other.xml">
+        <!--<exclude name="AvoidApacheBeanUtilsCopyRule"/>-->
+    </rule>
+    <rule ref="rulesets/java/ali-orm.xml"/>
+    <rule ref="rulesets/java/ali-exception.xml">
+       <!-- <exclude name="TransactionMustHaveRollbackRule"/>-->
+    </rule>
+    <rule ref="rulesets/java/ali-oop.xml">
+        <exclude name="EqualsAvoidNullRule"/>
+        <exclude name="WrapperTypeEqualityRule"/>
+       <!-- <exclude name="PojoMustOverrideToStringRule"/>-->
+    </rule>
+    <rule ref="rulesets/java/ali-set.xml"/>
+    <rule ref="rulesets/java/ali-flowcontrol.xml">
+        <exclude name="NeedBraceRule"/>
+    </rule>
+</ruleset>

@@ -1,0 +1,22 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="68" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="372" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="175" />
+    <location key="OptionsEditor.0.0.1366.768" x="163" y="0" />
+    <location key="Github.CreateGistDialog.0.0.1366.768" x="508" y="262" />
+    <location key="IdeErrosDialog.0.0.1366.768" x="0" y="0" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="12" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="1023" y="598" />
+    <location key="new project wizard.0.0.1366.768" x="308" y="0" />
+    <location key="SettingsEditor.0.0.1366.768" x="164" y="13" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="66" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="187" height="113" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="325" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="325" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="325" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="325" />
+    <size key="IdeErrosDialog.0.0.1366.768" width="1366" height="728" />
+  </component>
+</application>

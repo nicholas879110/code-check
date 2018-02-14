@@ -1,0 +1,31 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="RAP-master_internet" values="Git" collectionTime="1516786318310" />
+    </group>
+    <group name="file-type">
+      <project id="RAP-master_internet" values="UNKNOWN,ARCHIVE,JSON,SQL,CSS,JSP,Properties,IDEA_MODULE,PLAIN_TEXT,JAVA,Images,Manifest,XML,JavaScript,HTML" collectionTime="1516786318431" />
+      <project id="test" values="XML,IDEA_MODULE,PLAIN_TEXT,UNKNOWN" collectionTime="1511761243735" />
+    </group>
+    <group name="language-level">
+      <project id="RAP-master_internet" values="JDK_1_6" collectionTime="1516786318516" />
+      <project id="test" values="JDK_1_7" collectionTime="1511761243740" />
+    </group>
+    <group name="frameworks">
+      <project id="RAP-master_internet" values="invalid" collectionTime="1516786318310" />
+    </group>
+    <group name="module type">
+      <project id="RAP-master_internet" values="JAVA_MODULE" collectionTime="1516786318310" />
+      <project id="test" values="JAVA_MODULE" collectionTime="1511761243635" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="3" />
+      <entry feature="ideaapp.started" count="97" />
+      <entry feature="tips.of.the.day.next" count="48" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

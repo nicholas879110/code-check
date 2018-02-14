@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="E:\RAP-master_internet\.idea\compiler.xml" timestamp="1511779122652" />
+    <file path="E:\RAP-master_internet\.idea\copyright\profiles_settings.xml" timestamp="1511778587092" />
+    <file path="E:\RAP-master_internet\.idea\inspectionProfiles\Project_Default.xml" timestamp="1511840527115" />
+    <file path="E:\RAP-master_internet\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1511840526559" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" timestamp="1511779122918" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1511779123029" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__asm_asm_3_3.xml" timestamp="1511779122748" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__asm_asm_commons_3_3.xml" timestamp="1511779122904" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__asm_asm_tree_3_3.xml" timestamp="1511779122954" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__c3p0_c3p0_0_9_1_2.xml" timestamp="1511779122997" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__com_belerweb_pinyin4j_2_5_0.xml" timestamp="1511779122713" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__com_google_code_gson_gson_2_3_1.xml" timestamp="1511779122986" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_7_0.xml" timestamp="1511779122831" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_chain_commons_chain_1_1.xml" timestamp="1511779123057" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_collections_commons_collections_3_2_1.xml" timestamp="1511779122733" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_digester_commons_digester_1_8.xml" timestamp="1511779122912" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_fileupload_commons_fileupload_1_3_2.xml" timestamp="1511779122809" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_io_commons_io_2_2.xml" timestamp="1511779122800" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_lang_commons_lang_2_4.xml" timestamp="1511779122860" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_logging_commons_logging_1_1.xml" timestamp="1511779123052" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__commons_validator_commons_validator_1_3_1.xml" timestamp="1511779122847" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__dk_brics_automaton_automaton_1_11_8.xml" timestamp="1511779122720" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" timestamp="1511779123046" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__javax_mail_javax_mail_api_1_5_5.xml" timestamp="1511779122967" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__javax_servlet_javax_servlet_api_3_1_0.xml" timestamp="1511779122771" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" timestamp="1511779123069" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__javax_servlet_servlet_api_2_3.xml" timestamp="1511779122691" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__javax_transaction_jta_1_1.xml" timestamp="1511779122696" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__log4j_log4j_1_2_14.xml" timestamp="1511779122924" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_6.xml" timestamp="1511779122971" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__ognl_ognl_3_0_19.xml" timestamp="1511779122892" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_2.xml" timestamp="1511779122880" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_commons_commons_pool2_2_3.xml" timestamp="1511779122866" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_logging_log4j_log4j_api_2_5.xml" timestamp="1511779122871" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_logging_log4j_log4j_core_2_5.xml" timestamp="1511779122760" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_struts_struts2_core_2_3_32.xml" timestamp="1511779122990" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_struts_struts2_spring_plugin_2_3_32.xml" timestamp="1511779122949" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_struts_struts_core_1_3_8.xml" timestamp="1511779122765" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_struts_struts_taglib_1_3_8.xml" timestamp="1511779123039" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_struts_struts_tiles_1_3_8.xml" timestamp="1511779122743" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_struts_xwork_xwork_core_2_3_32.xml" timestamp="1511779122854" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_velocity_velocity_1_7.xml" timestamp="1511779122753" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_apache_velocity_velocity_tools_2_0.xml" timestamp="1511779123074" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" timestamp="1511779122841" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" timestamp="1511779123010" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_freemarker_freemarker_2_3_22.xml" timestamp="1511779122777" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" timestamp="1511779123003" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_hibernate_hibernate_core_5_0_6_Final.xml" timestamp="1511779122976" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" timestamp="1511779122837" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_javassist_javassist_3_18_1_GA.xml" timestamp="1511779122793" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_jboss_jandex_2_0_0_Final.xml" timestamp="1511779123062" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" timestamp="1511779123022" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_mozilla_rhino_1_7_7.xml" timestamp="1511779122726" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_ocpsoft_prettytime_prettytime_3_2_3_Final.xml" timestamp="1511779122821" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_slf4j_slf4j_api_1_5_6.xml" timestamp="1511779122886" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_5_6.xml" timestamp="1511779122676" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" timestamp="1511779122703" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" timestamp="1511779122783" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" timestamp="1511779122708" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" timestamp="1511779122935" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" timestamp="1511779122930" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" timestamp="1511779122826" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" timestamp="1511779123034" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_orm_4_2_4_RELEASE.xml" timestamp="1511779122738" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" timestamp="1511779122943" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" timestamp="1511779122816" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__org_tuckey_urlrewritefilter_4_0_4.xml" timestamp="1511779122804" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__oro_oro_2_0_8.xml" timestamp="1511779122898" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__redis_clients_jedis_2_7_2.xml" timestamp="1511779122684" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__sslext_sslext_1_2_0.xml" timestamp="1511779122960" />
+    <file path="E:\RAP-master_internet\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" timestamp="1511779122980" />
+    <file path="E:\RAP-master_internet\.idea\misc.xml" timestamp="1511851116913" />
+    <file path="E:\RAP-master_internet\.idea\modules.xml" timestamp="1511778589752" />
+    <file path="E:\RAP-master_internet\.idea\scopes\scope_settings.xml" timestamp="1511779043606" />
+    <file path="E:\RAP-master_internet\.idea\vcs.xml" timestamp="1511778589749" />
+    <file path="E:\RAP-master_internet\.idea\workspace.xml" timestamp="1516786319222" />
+    <file path="E:\RAP-master_internet\RAP-master_internet.iml" timestamp="1513649283035" />
+  </project-files>
+</conversion>
+
